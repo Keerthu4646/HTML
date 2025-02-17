@@ -1,0 +1,11 @@
+	<html>
+		<head>
+			<title>Exercise</title>
+		</head>
+		<body style="border-left:20px solid yellow;border-top:20px solid red;morgin-top:10px;border-right:20px solid green;border-bottom:20px solid blue;width:250px;height:200px;color:red;">
+			<h2 style="font-family:courier;color:black;">This is the</h2> 
+			<h2 style="font-family:courier;color:black;">paragraph with</h2>
+			<h2 style="font-family:courier;color:black;"> different</h2>
+			<h2 style="font-family:courier;color:black;"> border color</h2>
+		</body>						
+	</html>
