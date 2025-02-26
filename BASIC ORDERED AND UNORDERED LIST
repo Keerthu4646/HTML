@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Engines and Web Browsers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #4CAF50;
+            text-align: center;
+        }
+        ul, ol {
+            margin: 20px;
+            padding-left: 30px;
+        }
+        li {
+            font-size: 18px;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>List of Search Engines and Web Browsers</h1>
+
+    <h2>Search Engines (Ordered List):</h2>
+    <ol>
+        <li>Google</li>
+        <li>Bing</li>
+        <li>Yahoo</li>
+        <li>DuckDuckGo</li>
+        <li>Baidu</li>
+        <li>Yandex</li>
+    </ol>
+
+    <h2>Web Browsers (Unordered List):</h2>
+    <ul>
+        <li>Google Chrome</li>
+        <li>Mozilla Firefox</li>
+        <li>Microsoft Edge</li>
+        <li>Safari</li>
+        <li>Opera</li>
+        <li>Brave</li>
+    </ul>
+
+</body>
+</html>
