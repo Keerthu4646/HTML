@@ -1,0 +1,12 @@
+<html>
+	<head>
+<title>BORDER AND MARGIN </title>
+	</head>
+		<body>
+			<div style="border:3px solid black;height:900px;width:900px;margin-left:255px;background-color:orange;">
+			<p style="text-align:left;">margin</p>
+			<div style="border:3px solid black;height:850px;width:850px;background-color:yellow;">
+			<p style="text-align:left;">border</p>
+</body>
+</html>
+			
