@@ -1,0 +1,20 @@
+<DOCTYPE html>
+	<head>
+	</head>
+		<body>
+		<div style="border:2px solid black;height:60px;width:800px;background-color:#12AD2B;margin-bottom:3px;margin-left:255px;">
+		<h3 style="text-align:center;color:black;"><b>HTML Work</b></h3>
+		</div>
+		<div style="border:1px solid black;height:400px;width:100px;background-color:#FFC5CB;margin-left:255px;margin-bottom:4px;float:left;">
+		<p style="text-align:center;margin-top:40px;font-size:10px;font-family:courier;">Bikes</p>
+		<p style="text-align:center;10px;font-family:courier;margin-top:0px;font-size:10px;margin-bottom:3px;">1.Yamaha</p>
+		<p style="text-align:left;font-family:courier;margin-top:0px;font-size:10px;margin-bottom:3px;margin-left:26px;">2.bajaj</p>
+		<p style="text-align:left;font-family:courier;margin-top:0px;font-size:10px;margin-bottom:0px;margin-left:26px">3.TVS</p>
+		</div>
+		<div style="border:1px solid black;height:400px;width:700px;background-color:#FFC5CB;margin-bottom:4px;float:left;margin-bottom:4px;">
+		<p style="text-align:left;margin-top:40px;font-size:10px;font-family:courier;margin-top:10px;margin-left:5px;">HTML page layout using inline CSS</div>
+		<div style="border:2px solid black;height:40px;width:500px;background-color:#12AD2B;margin-left:255px;">
+		<p style="text-align:right;color:white;">Copyrights</p>
+		</div>
+		
+	
