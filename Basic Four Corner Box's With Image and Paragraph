@@ -1,0 +1,10 @@
+<html>
+	<head>	
+		<body>
+			<img src="D:\HTML CSS\css\images\image 10.jpeg" height="100px" width="100px" style="border-radius:50px;margin-left:15px;margin-right:10px;padding-buttom:5px;padding-top:5px;float:left;text-align:justify;">
+			<h1 style="border:4px groove red;width:400px;height:380px;text-align:justify;font-size:10px;margin:0px;">Nature is defined as our environment.It is the interaction between the physical world around us and the life within it like the atmosphere, climate, natural resources, ecosystem, flora, fauna and humans. Nature also includes non-living things such as water, mountains, landscape, plants, trees and many other things.Nature is the ultimate source of our living.</p>
+			<img src="D:\HTML CSS\css\images\image 10.jpeg" height="100px" width="100px" style="border-radius:50px;float:left;">
+			<h2 style="border:4px groove red;width:500px;height:280px;text-align:justify;font-size:10px;float:left;margin:0px;">Nature is defined as our environment.It is the interaction between the physical world around us and the life within it like the atmosphere, climate, natural resources, ecosystem, flora, fauna and humans. Nature also includes non-living things such as water, mountains, landscape, plants, trees and many other things.Nature is the ultimate source of our living. Both living and non-living things include nature, and everyone is interdependent, which helps maintain the ecosystem. </p>
+		</body>
+	</head>
+</html>
