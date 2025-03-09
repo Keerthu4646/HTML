@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<style>
+			.a1{
+				border: 2px solid red;
+				height: 400px;
+				width: 400px;
+				position: absolute;
+
+			}
+			.a2{
+				border: 2px solid rgb(118, 14, 246);
+				height: 400px;
+				width: 400px;
+				position: absolute;
+
+			}
+			.a3{
+				border: 2px solid rgba(82, 89, 85, 0.149);
+				height: 400px;
+				width: 400px;
+				position: absolute;
+			}
+			.a4{
+				border: 2px solid rgb(166, 246, 7);
+				height: 400px;
+				width: 400px;
+				position: absolute;
+			}
+		</style>
+	</head>
+		<body>
+			<div class="a1"></div>
+			<div class="a2"></div>
+			<div class="a3"></div>
+			<div class="a4"></div>
+
+		</body>
+</html>
