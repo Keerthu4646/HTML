@@ -1,0 +1,69 @@
+<html>
+	<head>
+	<style>
+		.a{
+			height:160px;
+			width:300px;
+			text-align:left;
+			float:left;	
+			margin-top:50px;
+			margin-bottom:100px;
+			padding-right:130px;
+		}
+		.b{
+			height:160px;
+			width:300px;
+			text-align:justify;
+			float:left;
+			margin-bottom:100px;
+			margin-top:50px;
+			padding-right:130px;
+			padding-left:50px;
+		}
+		.c{
+			height:160px;
+			width:300px;
+			text-align:left;
+			float:right;
+			margin-bottom:100px;
+			margin-top:50px;
+		}
+		.d{
+			height:160px;
+			width:300px;
+			text-align:left;
+			float:left;
+			margin-bottom:0px;
+			margin-top:0px;
+			padding-right:130px;
+		}
+		.e{
+			height:160px;
+			width:300px;
+			text-align:left;
+			float:left;
+			margin-bottom:0px;
+			margin-top:0px;
+			padding-right:130px;
+			padding-left:50px;
+		}
+		.f{
+			height:160px;
+			width:300px;
+			text-align:left;
+			float:right;
+			margin-bottom:0px;
+			margin-top:0px;
+		
+		}
+			</style>
+			<body>
+			<p class="a">The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink. As twilight settled in, a gentle breeze rustled the leaves, creating a soothing melody. In the distance, laughter echoed from a nearby park where families gathered to enjoy the evening. The air was filled with the scent of blooming flowers and freshly cut grass.</h6>
+			<p class="b">The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink. As twilight settled in, a gentle breeze rustled the leaves, creating a soothing melody. In the distance, laughter echoed from a nearby park where families gathered to enjoy the evening. The air was filled with the scent of blooming flowers and freshly cut grass.</h6>
+			<p class="c">The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink. As twilight settled in, a gentle breeze rustled the leaves, creating a soothing melody. In the distance, laughter echoed from a nearby park where families gathered to enjoy the evening. The air was filled with the scent of blooming flowers and freshly cut grass.</h6>
+			<p class="d">The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink. As twilight settled in, a gentle breeze rustled the leaves, creating a soothing melody. In the distance, laughter echoed from a nearby park where families gathered to enjoy the evening. The air was filled with the scent of blooming flowers and freshly cut grass.</h6>
+			<p class="e">The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink. As twilight settled in, a gentle breeze rustled the leaves, creating a soothing melody. In the distance, laughter echoed from a nearby park where families gathered to enjoy the evening. The air was filled with the scent of blooming flowers and freshly cut grass..</h6>
+			<p class="f">The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink. As twilight settled in, a gentle breeze rustled the leaves, creating a soothing melody. In the distance, laughter echoed from a nearby park where families gathered to enjoy the evening. The air was filled with the scent of blooming flowers and freshly cut grass.<br></h6>
+			</body>
+	</head>
+</html>
