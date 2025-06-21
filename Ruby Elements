@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The ruby and rt elements</h1>
+
+<ruby>
+ 漢 <rt> ㄏㄢˋ </rt>
+</ruby>
+
+</body>
+</html>
